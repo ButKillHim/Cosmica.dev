@@ -15,17 +15,15 @@ const About = () => {
     <>
       <div className="tokyo_tm_about">
         <div className="about_image">
-          <img src="assets/img/slider/1.jpg" alt="about" />
+          <img src="assets/img/slider/4.png" alt="about" />
         </div>
         {/* END ABOUT IMAGE */}
         <div className="description">
-          <h3 className="name">Adriano Smith &amp; Photographer</h3>
+          <h3 className="name">Santiago Zapata - Software Developer</h3>
           <div className="description_inner">
             <div className="left">
               <p>
-                Hello, I am a creative photographer based in New York and happy
-                to travel all over Europe to capture your big day in candid and
-                authentic photos. I will create a lasting memory of the people.
+                Highly motivated, task-driven, self-starting developer seeking to create brand-new universes. Familiar with dev and deployment process for many web-based technologies.
               </p>
               <div className="tokyo_tm_button">
                 <button onClick={toggleModal} className="ib-button">
@@ -39,34 +37,24 @@ const About = () => {
               <ul>
                 <li>
                   <p>
-                    <span>Birthday:</span>01.07.1990
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    <span>Age:</span>31
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    <span>Address:</span>Ave 11, New York, USA
+                    <span>Age:</span>22
                   </p>
                 </li>
                 <li>
                   <p>
                     <span>Email:</span>
-                    <a href="mailto:mail@gmail.com">mail@gmail.com</a>
+                    <a href="mailto:mail@gmail.com">gelatina@cosmica.dev</a>
                   </p>
                 </li>
                 <li>
                   <p>
                     <span>Phone:</span>
-                    <a href="tel:+770221770505">+77 022 177 05 05</a>
+                    <a href="tel:+770221770505">+57 322 245-7476</a>
                   </p>
                 </li>
                 <li>
                   <p>
-                    <span>Study:</span>Univercity of Texas
+                    <span>Github:</span>/gelatinaCosmica
                   </p>
                 </li>
                 <li>
@@ -114,7 +102,7 @@ const About = () => {
                       </span>
                       <div className="background">
                         <div className="bar">
-                          <div className="bar_in" style={{width: 95 + '%'}}></div>
+                          <div className="bar_in" style={{ width: 95 + '%' }}></div>
                         </div>
                       </div>
                     </div>
@@ -126,7 +114,7 @@ const About = () => {
                       </span>
                       <div className="background">
                         <div className="bar">
-                        <div className="bar_in" style={{width: 80 + '%'}}></div>
+                          <div className="bar_in" style={{ width: 80 + '%' }}></div>
                         </div>
                       </div>
                     </div>
@@ -138,7 +126,7 @@ const About = () => {
                       </span>
                       <div className="background">
                         <div className="bar">
-                        <div className="bar_in" style={{width: 90 + '%'}}></div>
+                          <div className="bar_in" style={{ width: 90 + '%' }}></div>
                         </div>
                       </div>
                     </div>
@@ -160,7 +148,7 @@ const About = () => {
                       </span>
                       <div className="background">
                         <div className="bar">
-                        <div className="bar_in" style={{width: 95 + '%'}}></div>
+                          <div className="bar_in" style={{ width: 95 + '%' }}></div>
                         </div>
                       </div>
                     </div>
@@ -172,7 +160,7 @@ const About = () => {
                       </span>
                       <div className="background">
                         <div className="bar">
-                        <div className="bar_in" style={{width: 90 + '%'}}></div>
+                          <div className="bar_in" style={{ width: 90 + '%' }}></div>
                         </div>
                       </div>
                     </div>
@@ -184,7 +172,7 @@ const About = () => {
                       </span>
                       <div className="background">
                         <div className="bar">
-                        <div className="bar_in" style={{width: 85 + '%'}}></div>
+                          <div className="bar_in" style={{ width: 85 + '%' }}></div>
                         </div>
                       </div>
                     </div>

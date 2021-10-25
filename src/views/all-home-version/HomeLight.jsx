@@ -70,14 +70,7 @@ const HomeLight = () => {
 
               <div className="copyright">
                 <p>
-                  &copy; {new Date().getFullYear()} Tokyo <br /> Created by
-                  <a
-                    href="https://themeforest.net/user/ib-themes"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    Ib-Themes
-                  </a>
+                  &copy; {new Date().getFullYear()} Cosmica
                 </p>
               </div>
               {/* END COPYRIGHT */}
