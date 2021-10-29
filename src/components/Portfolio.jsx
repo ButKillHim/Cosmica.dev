@@ -24,7 +24,7 @@ const Portfolio = () => {
                 <Tab>Ui/Ux</Tab>
                 <Tab>Website</Tab>
                 <Tab>Graphic</Tab>
-                <Tab>Creative</Tab>
+                <Tab>Wordpress</Tab>
               </TabList>
               {/* END TABLIST */}
               <div className="list_wrapper">
@@ -191,9 +191,9 @@ const Portfolio = () => {
                       <li>
                         <div className="inner">
                           <div className="entry tokyo_tm_portfolio_animation_wrap">
-                            <a href="assets/img/portfolio/2.jpg">
+                            <a href="assets/img/portfolio/7.png">
                               <img
-                                src="assets/img/portfolio/2.jpg"
+                                src="assets/img/portfolio/7.png"
                                 alt="Creative"
                               />
                             </a>
@@ -204,9 +204,9 @@ const Portfolio = () => {
                       <li>
                         <div className="inner">
                           <div className="entry tokyo_tm_portfolio_animation_wrap">
-                            <a href="assets/img/portfolio/3.jpg">
+                            <a href="assets/img/portfolio/6.png">
                               <img
-                                src="assets/img/portfolio/3.jpg"
+                                src="assets/img/portfolio/6.png"
                                 alt="Creative"
                               />
                             </a>

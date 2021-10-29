@@ -22,7 +22,7 @@ const Home = () => {
               Hi, I'm a Full Stack developer based in Colombia.
             </p>
             {/* END JOB */}
-            <Social />
+            {/* <Social /> */}
           </div>
           {/* END DETAILS */}
         </div>
